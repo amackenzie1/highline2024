@@ -1,0 +1,5 @@
+env/
+cache/
+simulation_cache/
+cifar/__pycache__
+adagrad/__pycache__
