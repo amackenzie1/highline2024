@@ -13,7 +13,7 @@ All the figures will be written to the `figures` folder.
 ```
 @article{collins-woodfin2024thehighline,
   title={The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms}, 
-  author={Elizabeth Collins-Woodfin and Inbar Seroussi and Begoña García Malaxechebarría and Andrew W. Mackenzie and Elliot Paquette and Courtney Paquette}, 
+  author={Elizabeth Collins-Woodfin and Inbar Seroussi and Bego{\~n}a Garc{\'\i}a Malaxechebarr{\'\i}a and Andrew W. Mackenzie and Elliot Paquette and Courtney Paquette}, 
   journal={arXiv:2405.19585}, 
   year={2024},
 }  
